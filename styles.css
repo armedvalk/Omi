@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;  /* Center horizontally */
+  align-items: center;      /* Center vertically */
+  background: #18191a;
+  background: linear-gradient(
+    90deg,
+    rgba(24, 25, 26, 1) 0%,
+    rgba(30, 81, 143, 1) 100%,
+    rgba(237, 221, 83, 1) 100%
+  );
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
